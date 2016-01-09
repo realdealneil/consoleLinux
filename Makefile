@@ -1,5 +1,4 @@
-# FlyCapture2Test makefile
-# To compile the debug verison need to overwrite CXXFLAGS variable to include -ggdb
+# Console Test makefile
 
 CC = g++
 OUTPUTNAME = testconsole
