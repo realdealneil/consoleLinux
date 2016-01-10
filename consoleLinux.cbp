@@ -31,6 +31,8 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="consoleLinux.h" />
+		<Unit filename="testconsole.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
